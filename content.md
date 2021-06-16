@@ -1,591 +1,466 @@
-# Example material
-
-author: Aparus
-
-first published: 2020
-
-language: en
-level: beginner
-
-# Chapter 1
-
-## Frutas [fileCard]
-
-la manzana
-el plátano
-el higo
-la uva
-el kiwi
-el limón
-el melón
-la naranja
-el melocotón
-la pera
-
-## training [exercise | 001/001]
-
-audio, text-original --> image choose-from-4 1
-image, text-original --> text-translation choose-from-4 1
-audio --> text-original choose-from-4 1
-text-translation --> text-original write 1
-
-## phrases
-
-phrase one
-phrase two
-phrase three
-phrase four
-phrase five
-phrase six
-phrase seven
-phrase eight
-phrase nine
-phrase ten
-
-# Chapter 2
-
-## words
-
-eleven
-twelve
-thirteen
-fourteen
-fifteen
-sixteen
-seventeen
-eighteen
-nineteen
-twenty
-
-## phrases [fileCard]
-
-phrase eleven
-phrase twelve
-phrase thirteen
-phrase fourteen
-phrase fifteen
-phrase sixteen
-phrase seventeen
-phrase eighteen
-phrase nineteen
-phrase twenty
-
-# Alice's adventures in Wonderland
-
-## 1.1. Down The Rabbit Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_01.mp3]
-
-### timing
-
-0.00 2.04 Alice’s Adventures in Wonderland
-2.32 3.22 by Lewis Carroll
-3.70 4.71 CHAPTER I.
-5.00 6.19 Down the Rabbit-Hole
-7.05 10.46 Alice was beginning to get very tired of sitting by her sister on the bank,
-10.74 12.13 and of having nothing to do:
-12.52 15.20 once or twice she had peeped into the book her sister was reading,
-15.38 17.71 but it had no pictures or conversations in it,
-18.00 19.68 “and what is the use of a book,”
-19.92 23.17 thought Alice “without pictures or conversations?”
-23.30 27.71 So she was considering in her own mind (as well as she could,
-27.83 32.03 for the hot day made her feel very sleepy and stupid),
-32.68 35.18 whether the pleasure of making a daisy-chain
-35.33 39.21 would be worth the trouble of getting up and picking the daisies,
-39.66 44.12 when suddenly a White Rabbit with pink eyes ran close by her.
-44.42 47.38 There was nothing so very remarkable in that;
-47.70 50.61 nor did Alice think it so very much out of the way
-50.62 52.79 to hear the Rabbit say to itself,
-53.07 54.08 “Oh dear!
-54.08 54.64 Oh dear!
-54.64 55.80 I shall be late!”
-55.80 57.72 (when she thought it over afterwards,
-57.72 61.32 it occurred to her that she ought to have wondered at this,
-61.32 64.51 but at the time it all seemed quite natural);
-65.36 70.16 but when the Rabbit actually took a watch out of its waistcoat-pocket,
-70.16 71.24 and looked at it,
-71.24 73.32 and then hurried on,
-73.32 75.16 Alice started to her feet,
-75.16 78.41 for it flashed across her mind that she had never before seen
-78.41 80.76 a rabbit with either a waistcoat-pocket,
-80.76 83.12 or a watch to take out of it,
-83.12 84.96 and burning with curiosity,
-84.96 87.20 she ran across the field after it,
-87.20 90.36 and fortunately was just in time to see it pop down
-90.36 93.04 a large rabbit-hole under the hedge.
-93.04 95.96 In another moment down went Alice after it,
-95.96 100.16 never once considering how in the world she was to get out again.
-100.16 103.12 The rabbit-hole went straight on like a tunnel for some way,
-103.12 104.92 and then dipped suddenly down,
-104.92 109.84 so suddenly that Alice had not a moment to think about stopping herself
-109.84 113.80 before she found herself falling down a very deep well.
-113.80 116.04 Either the well was very deep,
-116.04 117.52 or she fell very slowly,
-117.52 121.12 for she had plenty of time as she went down to look about her
-121.12 123.32 and to wonder what was going to happen next.
-123.32 124.20 First,
-124.20 127.08 she tried to look down and make out what she was coming to,
-127.08 129.84 but it was too dark to see anything;
-129.84 131.76 then she looked at the sides of the well,
-131.76 135.80 and noticed that they were filled with cupboards and book-shelves;
-135.80 140.08 here and there she saw maps and pictures hung upon pegs.
-140.08 142.76 She took down a jar from one of the shelves as she passed;
-142.76 145.36 it was labelled “ORANGE MARMALADE”,
-145.36 148.72 but to her great disappointment it was empty:
-148.72 152.40 she did not like to drop the jar for fear of killing somebody underneath,
-152.40 156.12 so managed to put it into one of the cupboards as she fell past it.
-156.12 157.24 “Well!”
-157.24 158.84 thought Alice to herself,
-158.84 160.88 “after such a fall as this,
-160.88 163.64 I shall think nothing of tumbling down stairs!
-163.64 166.00 How brave they’ll all think me at home!
-166.00 166.48 Why,
-166.48 168.20 I wouldn’t say anything about it,
-168.20 170.60 even if I fell off the top of the house!”
-170.60 173.20 (Which was very likely true.)
-173.20 174.12 Down,
-174.12 175.60 down,
-175.60 178.32 down.
-178.32 181.16 Would the fall never come to an end?
-181.16 184.60 “I wonder how many miles I’ve fallen by this time?”
-184.60 185.52 she said aloud.
-185.52 189.00 “I must be getting somewhere near the centre of the earth.
-189.00 190.00 Let me see:
-190.00 192.48 that would be four thousand miles down,
-192.48 193.40 I think—”
-193.40 194.04 (for,
-194.04 194.80 you see,
-194.80 198.28 Alice had learnt several things of this sort in her lessons in the schoolroom,
-198.28 202.80 and though this was not a very good opportunity for showing off her knowledge,
-202.80 204.64 as there was no one to listen to her,
-204.64 207.76 still it was good practice to say it over)
-207.76 209.12 “—yes,
-209.12 210.68 that’s about the right distance —
-210.68 213.96 but then I wonder what Latitude or Longitude I’ve got to?”
-213.96 217.40 (Alice had no idea what Latitude was,
-217.40 218.56 or Longitude either,
-218.56 221.48 but thought they were nice grand words to say.)
-221.48 223.56 Presently she began again.
-223.56 226.32 “I wonder if I shall fall right through the earth!
-226.32 229.08 How funny it’ll seem to come out among the people
-229.08 230.80 that walk with their heads downward!
-230.80 233.12 The Antipathies,
-233.12 233.80 I think—”
-233.80 236.52 (she was rather glad there was no one listening,
-236.52 237.40 this time,
-237.40 240.04 as it didn’t sound at all the right word)
-
-## 1.2. Down the Rabbit-Hole [richMedia | https://archive.org/download/aliceinwonderland_02_02/aliceinwonderland_01_02.mp3]
-
-### timing
-
-0.00 3.24 “—but I shall have to ask them what the name of the country is,
-3.24 3.60 you know.
-3.60 4.68 Please,
-4.68 5.20 Ma’am,
-5.20 7.24 is this New Zealand or Australia?”
-7.24 10.04 (and she tried to curtsey as she spoke —
-10.04 13.32 fancy curtseying as you’re falling through the air!
-13.32 14.84 Do you think you could manage it?)
-14.84 18.52 “And what an ignorant little girl she’ll think me for asking!
-18.52 19.48 No,
-19.48 21.36 it’ll never do to ask:
-21.36 23.84 perhaps I shall see it written up somewhere.”
-23.84 25.04 Down,
-25.04 26.24 down,
-26.24 28.12 down.
-28.12 29.52 There was nothing else to do,
-29.52 31.76 so Alice soon began talking again.
-31.76 34.44 “Dinah’ll miss me very much to-night,
-34.44 35.20 I should think!”
-35.20 36.56 (Dinah was the cat.)
-36.76 40.00 “I hope they’ll remember her saucer of milk at tea-time.
-40.40 41.64 Dinah my dear!
-41.64 43.80 I wish you were down here with me!
-43.80 45.12 There are no mice in the air,
-45.12 46.12 I’m afraid,
-46.12 47.40 but you might catch a bat,
-47.40 48.60 and that’s very like a mouse,
-48.60 49.36 you know.
-49.36 50.56 But do cats eat bats,
-50.56 51.60 I wonder?”
-51.60 54.44 And here Alice began to get rather sleepy,
-54.44 56.08 and went on saying to herself,
-56.08 57.60 in a dreamy sort of way,
-57.60 61.04 “Do cats eat bats?
-61.04 64.14 Do cats eat bats?”
-64.34 65.44 and sometimes,
-65.44 68.72 “Do bats eat cats?”
-68.72 69.16 for,
-69.16 70.28 you see,
-70.28 72.68 as she couldn’t answer either question,
-72.68 75.68 it didn’t much matter which way she put it.
-75.68 77.88 She felt that she was dozing off,
-77.88 81.96 and had just begun to dream that she was walking hand in hand with Dinah,
-81.96 83.84 and saying to her very earnestly,
-83.84 84.84 “Now,
-84.84 85.24 Dinah,
-85.24 86.64 tell me the truth:
-86.64 88.56 did you ever eat a bat?”
-88.56 89.32 when suddenly,
-89.32 89.96 thump!
-89.96 90.32 thump!
-90.32 93.88 down she came upon a heap of sticks and dry leaves,
-93.88 95.96 and the fall was over.
-95.96 97.64 Alice was not a bit hurt,
-97.64 100.40 and she jumped up on to her feet in a moment:
-100.40 101.52 she looked up,
-101.52 103.52 but it was all dark overhead;
-103.52 105.64 before her was another long passage,
-105.64 107.64 and the White Rabbit was still in sight,
-107.64 109.20 hurrying down it.
-109.20 110.88 There was not a moment to be lost:
-110.88 113.24 away went Alice like the wind,
-113.24 115.12 and was just in time to hear it say,
-115.12 116.28 as it turned a corner,
-116.28 119.00 “Oh my ears and whiskers,
-119.00 120.56 how late it’s getting!”
-120.56 123.16 She was close behind it when she turned the corner,
-123.16 125.12 but the Rabbit was no longer to be seen:
-125.12 127.08 she found herself in a long,
-127.08 128.00 low hall,
-128.00 131.20 which was lit up by a row of lamps hanging from the roof.
-131.20 133.88 There were doors all round the hall,
-133.88 135.44 but they were all locked;
-135.44 138.88 and when Alice had been all the way down one side and up the other,
-138.88 140.44 trying every door,
-140.44 142.28 she walked sadly down the middle,
-142.28 145.00 wondering how she was ever to get out again.
-145.00 147.80 Suddenly she came upon a little three-legged table,
-147.80 149.60 all made of solid glass;
-149.60 152.92 there was nothing on it except a tiny golden key,
-152.92 155.12 and Alice’s first thought was that it might belong
-155.12 156.48 to one of the doors of the hall;
-156.48 157.24 but,
-157.24 158.44 alas!
-158.44 159.96 either the locks were too large,
-159.96 161.48 or the key was too small,
-161.48 165.32 but at any rate it would not open any of them.
-165.32 165.84 However,
-165.84 167.08 on the second time round,
-167.08 170.00 she came upon a low curtain she had not noticed before,
-170.00 173.72 and behind it was a little door about fifteen inches high:
-173.72 176.40 she tried the little golden key in the lock,
-176.40 179.04 and to her great delight it fitted!
-179.04 183.08 Alice opened the door and found that it led into a small passage,
-183.08 185.36 not much larger than a rat-hole:
-185.36 187.56 she knelt down and looked along the passage
-187.56 189.96 into the loveliest garden you ever saw.
-189.96 193.28 How she longed to get out of that dark hall,
-193.28 198.32 and wander about among those beds of bright flowers and those cool fountains,
-198.32 201.32 but she could not even get her head through the doorway;
-201.32 203.76 “and even if my head would go through,”
-203.76 205.16 thought poor Alice,
-205.16 208.92 “it would be of very little use without my shoulders.
-208.92 209.44 Oh,
-209.44 212.20 how I wish I could shut up like a telescope!
-212.20 213.32 I think I could,
-213.32 214.96 if I only knew how to begin.”
-214.96 215.48 For,
-215.48 215.96 you see,
-215.96 219.20 so many out-of-the-way things had happened lately,
-219.20 220.64 that Alice had begun to think
-220.64 223.80 that very few things indeed were really impossible.
-223.80 227.28 There seemed to be no use in waiting by the little door,
-227.28 228.92 so she went back to the table,
-228.92 231.84 half hoping she might find another key on it,
-231.84 235.64 or at any rate a book of rules for shutting people up like telescopes:
-235.64 239.12 this time she found a little bottle on it,
-
-# Phrasal player, audio from BBC
-
-## Listen material [richMedia | https://downloads.bbc.co.uk/learningenglish/features/6min/191114_6min_english_mental_health_download.mp3]
-
-### timing
-
-0.00 3.10 This is a download from **BBC learning English**
-3.20 5.75 to find out more visit our website
-6.30 11.75 6 minute English from BBC learning English
-12.55 15.00 <v Neil> Hello. This is 6 Minute English. I'm Neil.
-15.20 16.30 <v Georgina> And I'm Georgina.
-16.40 20.65 <v Neil> In this programm we’re focussing on the topic of mental health at work.
-20.90 23.80 <v Georgina> Yes, it’s an issue that can be difficult to see.
-24.15 28.30 If someone has an injury, like a broken leg or a serious medical issue,
-28.55 31.25 it’s obvious, and we can understand what’s happening.
-31.55 33.25 With mental health issues, though,
-33.55 37.45 there’s no physical sign and people who are experiencing difficulties
-37.65 41.75 maybe don’t get the same understanding as people who have medical problems.
-41.90 45.10 <v Neil> It’s a topic that has been getting more publicity recently,
-45.20 49.10 particularly as members of the British royal family have been talking about it.
-49.50 54.00 Also, awareness is raised through events such as World Mental Health Day.
-54.05 56.05 And that is the topic of our quiz.
-56.15 59.95 World Mental Health Day is held every year on October 10th.
-60.15 62.85 It aims to raise awareness of mental health issues
-63.05 64.20 and their effects
-64.25 65.45 on people’s lives.
-65.70 67.40 In what year was it first held?
-67.45 69.45 Was it... A: 1992
-69.50 71.30 B: 2002
-71.45 73.05 C: 2012
-73.10 74.00 What do you think, Georgina?
-74.10 76.70 <v Georgina> I don’t know – I think it will be
-76.85 78.45 older than 2012, but as old as 1992?
-79.00 81.10 I don’t know.
-81.15 83.15 I’m going to go
-83.45 85.00 with 2002
-85.00 87.61 <v Neil> OK. I’ll have the answer later in the programme
-87.86 89.36 and we’ll see if you’re right.
-89.61 93.86 Mental health problems are very difficult personally for those who suffer from them,
-94.11 96.71 and they also have an impact on businesses.
-97.06 101.46 Paul Farmer is head of the mental health awareness charity Mind.
-101.66 105.71 He spoke on the BBC World Service Business Daily programme about this.
-106.06 109.26 How much does he says it costs businesses in the UK?
-110.46 115.56 <v Paul Farmer, CEO Mind>We know that the cost of failing to address mental health in business is colossal.
-115.61 120.26 In the UK, it costs between 33 and 42 billion pounds a year,
-120.31 121.81 about $50 billion dollars,
-121.86 126.76 and round about 300,000 people fall out of work every year
-126.81 128.71 as a result of poor mental health.
-128.76 132.81 So that’s a huge cost to workplaces and to individuals.
-132.96 135.86 Behind those numbers, though, are the lives of
-136.26 137.91 talented, able,
-138.01 139.11 contributors
-139.11 141.66 who often just slide away from the workplace
-141.76 145.01 because they don’t get the right help and support for their mental health.
-146.51 148.46 <v Neil> What figures did Paul Farmer give there?
-149.06 151.11 <v Georgina> He gave the figure of about between
-151.16 154.11 33 and £42 billion pounds
-154.46 156.51 – which is about $50 billion dollars.
-156.51 157.86 <v Neil> That’s a lot of money!
-158.11 160.71 <v Georgina> It is – in fact he called it colossal.
-161.31 164.56 This adjective means huge – really, really big.
-165.06 166.96 This is the cost to business he says of
-167.01 169.31 failing to address the mental health issue.
-169.51 173.06 <v Neil> Failing to address means ignoring or not dealing with the problems.
-173.31 175.06 It leads to staff leaving work,
-175.11 177.56 and he says these people are contributors,
-177.61 181.41 they give something to the business in terms of their skill and experience.
-181.71 183.66 <v Georgina> And because of mental health issues,
-183.71 185.71 which could be addressed but aren’t,
-185.86 188.66 those contributors are being lost to the business.
-188.91 192.86 So it costs companies more money to recruit and train new staff,
-193.16 195.96 and you can’t always replace the experience that is lost.
-196.01 197.36 <v Neil> Let’s listen again.
-198.46 203.56 <v Paul Farmer, CEO Mind>We know that the cost of failing to address mental health in business is colossal.
-203.61 208.26 In the UK, it costs between 33 and 42 billion pounds a year,
-208.31 209.81 about $50 billion dollars,
-209.86 214.76 and round about 300,000 people fall out of work every year
-214.81 216.71 as a result of poor mental health.
-216.76 220.81 So that’s a huge cost to workplaces and to individuals.
-220.96 223.86 Behind those numbers, though, are the lives of
-224.26 225.91 talented, able,
-226.01 227.11 contributors
-227.11 229.81 who often just slide away from the workplace
-229.81 232.96 because they don’t get the right help and support for their mental health.
-233.42 238.09 <v Neil> In recent years it seems as if there has been more understanding of mental health issues,
-238.12 241.16 not just in the workplace but in society as a whole.
-241.60 245.35 Geoff McDonald is a campaigner for the organisation Minds at Work.
-245.76 250.53 He spoke on the Business Daily programme about one way that things were getting a little better.
-251.57 253.19 <v Geoff McDonald, Minds at Work> I think what’s really changed
-253.33 254.95 is people telling their stories,
-255.01 257.07 and the more stories that we tell
-257.09 258.94 it kind of begins to normalise this.
-259.15 261.00 Every single story that we tell
-261.13 263.58 is like sending a lifeboat out into the ocean
-263.80 265.90 and the millions and millions of people
-265.94 267.49 who are suffering in silence,
-267.52 268.36 do you know what they do?
-268.71 270.30 They cling on to that lifeboat
-270.43 271.80 and they realise
-271.83 272.98 they’re not alone
-273.08 274.82 and they might just be normal.
-276.04 278.85 <v Neil> So, because more people are talking about this issue,
-278.89 280.67 it begins to normalise it.
-280.98 282.88 This means it becomes ‘normal’.
-282.93 285.42 It’s not unusual, strange or hidden.
-285.70 287.74 <v Georgina> There are people who suffer in silence –
-287.83 290.76 they keep to themselves and hide their problems from others,
-291.09 293.76 but because there is more publicity about this topic,
-293.96 298.48 they can begin to feel that they are not alone and they don’t have to suffer in silence.
-298.55 303.25 <v Neil> People sharing their stories are like lifeboats for those who do suffer in silence.
-303.70 306.60 In this metaphor they can cling onto the lifeboats.
-306.72 309.86 Right, we’re going to another look at today’s vocabulary,
-309.89 310.68 but first
-311.18 312.84 let’s have the answer to today’s quiz.
-313.03 316.07 When was the first World Mental Health Day?
-316.08 317.99 Was it... A. 1992
-318.21 319.81 B: 2002
-319.83 321.49 C: 2012
-321.62 322.98 Georgina, what did you say?
-323.26 325.08 <v Georgina> I thought it was 2002.
-325.21 326.44 <v Neil> It was actually earlier -
-326.45 327.66 1992.
-327.75 329.84 Now, a review of our vocabulary.
-330.44 331.47 <v Georgina> Failing to address
-331.49 333.63 is a phrase that means ignoring a problem
-333.64 335.45 or not trying to help with a problem.
-335.83 338.46 <v Neil> Something colossal is very, very big.
-338.90 341.37 <v Georgina> A contributor is someone who has something to give,
-341.80 343.41 who is a positive benefit to,
-343.43 345.07 in this case, a business.
-345.46 349.18 <v Neil> Then we have the verb to normalise, meaning to make something normal.
-349.73 351.37 <v Georgina> Someone who suffers in silence,
-351.68 354.79 doesn’t talk about their problems and may hide them from others.
-354.90 357.39 <v Neil> And finally, if you cling on to something,
-357.68 359.06 you hold on to it tightly,
-359.59 360.96 you don’t want to let it go.
-361.63 363.32 And that’s all from us from this programme.
-363.51 365.54 We look forward to your company again soon.
-365.59 368.15 In the meantime find us online, on social media
-368.37 370.02 and on the BBC Learning English app.
-370.15 370.67 <v Georgina> Bye!
-371.70 375.97 6 minute English from BBC learning English
-
-## training [exercise]
-
-audio-original --> text-original order 5
-audio-original --> text-original choose-from-4 12
-audio-original --> text-translation choose-from-4 6
-
-# Phrasal player, video from youtube [richMedia | youtube.com/watch?v=OGoehR_k0Xk]
-
-## timing
-
-WEBVTT
-Kind: captions
-Language: en
-
-00:00:01.815 --> 00:00:06.376
-I'm Clint Smith and this is
-"Ode to the Only Black Kid in the Class."
-
-00:00:08.206 --> 00:00:11.256
-You, it seems,
-are the manifestation
-
-00:00:11.256 --> 00:00:13.826
-of several lifetimes
-of toil.
-
-00:00:13.826 --> 00:00:16.065
-Brown v. Board
-in flesh.
-
-00:00:16.065 --> 00:00:17.826
-Most days
-the classroom feels
-
-00:00:17.826 --> 00:00:19.386
-like an antechamber.
-
-00:00:19.386 --> 00:00:20.646
-You are deemed expert
-
-00:00:20.646 --> 00:00:25.756
-on all things Morrison,
-King, Malcolm, Rosa.
-
-00:00:25.756 --> 00:00:28.446
-Hell, weren’t you sitting
-on that bus, too?
-
-00:00:28.446 --> 00:00:30.106
-You are every-
-body’s best friend
-
-00:00:30.106 --> 00:00:31.796
-until you are not.
-
-00:00:31.796 --> 00:00:33.236
-Hip-hop lyricologist.
-
-00:00:33.236 --> 00:00:34.896
-Presumed athlete.
-
-00:00:34.896 --> 00:00:36.496
-Free &amp; Reduced sideshow.
-
-00:00:36.496 --> 00:00:38.576
-Exception and caricature.
-
-00:00:38.576 --> 00:00:41.226
-Too black and too white
-all at once.
-
-00:00:41.226 --> 00:00:42.466
-If you are successful
-
-00:00:42.466 --> 00:00:44.666
-it is because
-of affirmative action.
-
-00:00:44.666 --> 00:00:46.146
-If you fail it is because
-
-00:00:46.146 --> 00:00:47.836
-you were destined to.
-
-00:00:47.836 --> 00:00:51.466
-You are invisible until they turn on
-the Friday night lights.
-
-00:00:51.466 --> 00:00:54.406
-Here you are star before
-they render you asteroid.
-
-00:00:54.406 --> 00:00:57.596
-Before they watch
-you turn to dust.
-
-# Text example [richText]
-
-## Header
-
-Paragraph1 with nested **bold**, _italic_, and double nested **bold _italic_**. А также русский текст.
-
-- list item 1
-- list item 2
-- list item 3
-
-Ordered list:
-
-1. List item one
-2. list item two
-3. list item three
-
-paragraph 2
-
-> blockquote line 1
-> blockquote line 2
-> blockquote line 3
->
-> -- **_Mark Awreliy_**
-
-А ещё параграф с русским текстом مَعَ كلمات عَرَبِيَّةٍ أيضا чтобы совсем интересно было. **أخرى عربية** И немного _русского курсива_ и **жирного русского**.
-
-This is sounded words: {one}, {two}, {three (from path) | 001/001/audios/003}.
-
-Image inside text: ![some image](https://github.githubassets.com/images/icons/emoji/unicode/1f64e-2642.png)
-
-Image inside text: ![some image](images/background)
-
-![block](images/logo)
-
-Also here is a media:
-
-[media | https://www.youtube.com/watch?v=dY_yfg9b2jk]
-
-Other video
-
-[media | https://www.youtube.com/watch?v=CEQTo9usai4]
-
-Quiz with radio buttons (right answer is 2nd):
-
-- ( ) Lorem ipsum dolor sit amet.
-- (x) Lorem ipsum dolor sit amet consectetur adipisicing.
-- ( ) Lorem ipsum dolor sit amet.
-
-And a quiz:
-
-Please, answer the question blablabla (right is 1st + 3rd):
-
-- [x] Lorem ipsum dolor sit amet.
-- [ ] Lorem ipsum dolor sit amet consectetur adipisicing.
-- [x] Lorem ipsum dolor sit amet.
+# النكبة\n الجزء الأول "خيوط المؤامرة"
+
+الناشر: الجزيرة
+
+# 1 [richMedia | hiddenContent/001 | s0-344]
+
+# 2 [richMedia | hiddenContent/001 | s344-615]
+
+# 3 [richMedia | hiddenContent/001 | s615-905]
+
+# 4 [richMedia | hiddenContent/001 | s905-1261]
+
+# 5 [richMedia | hiddenContent/001 | s1261-1531]
+
+# 6 [richMedia | hiddenContent/001 | s1531-1835]
+
+# 7 [richMedia | hiddenContent/001 | s1835-2109]
+
+# 8 [richMedia | hiddenContent/001 | s2109-2394]
+
+# 9 [richMedia | hiddenContent/001 | s2394-2715]
+
+# 10 [richMedia | hiddenContent/001 | s2715-2940]
+
+# HIDDEN [section]
+
+# Nakbah-1-movie [richMedia | https://www.youtube.com/watch?v=fbcZhO-QJQU]
+
+0:00:23.90,0:00:26.60 النكبة
+0:00:27.83,0:00:32.03 الجزء الأول خيوط المؤامرة
+0:00:32.43,0:00:41.89 <v أرنولد توبيني. المؤرخ البريطاني العالمي> "إن مأساة فلسطين ليست مأساة محلية، إنها مأساة العالم لأنها ظلم يهدد السلام العالمي".
+0:01:01.15,0:01:04.45 عكا
+0:01:05.75,0:01:09.85 لم تبدء نكبة ثمانية و أربعون قبل ستين عاما،
+0:01:09.95,0:01:13.35 لقد بدأت سياسيا قبل أكثر من مئتي عام.
+0:01:13.35,0:01:21.10 عام ١٧٩٩ إستعصت هذه الأسوار، هنا في عكا على نابليون
+0:01:21.30,0:01:24.85 فاتجه تفكيره الإستعماري ضد توسع بريطانيا
+0:01:24.85,0:01:31.85 ووجه نداء إلى يهود العالم:
+0:01:32.55,0:01:34.40 "أيها الإسرائيليون،
+0:01:34.40,0:01:38.15 انهضوا! فهذه هي اللحظة المناسبة،
+0:01:38.15,0:01:43.30 إن فرنسا تقدم لكم يدها الآن حاملة إرث إسرائيل،
+0:01:43.30,0:01:48.65 سارعوا للمطالبة باستعادة مكانتكم بين شعوب العالم".
+0:01:49.70,0:01:54.70 تحول نداء نابليون إلى خبر رئيسي في الصحف الفرنسية.
+0:02:00.60,0:02:05.20 هزم نابليون ولم يبقى من ذكراه في عكا سوى مجسما
+0:02:05.20,0:02:08.15 يقف على تلة سميت باسمه،
+0:02:11.75,0:02:16.95 لكن فكرة نابليون بإنشاء وجود يهودي في المنطقة لم تمت.
+0:02:16.95,0:02:20.45 بعد أربعين عاما أعادت بريطانيا الفكرة
+0:02:20.45,0:02:25.10 لترد على محاولة محمد علي توحيد مصر وسوريا
+0:02:25.10,0:02:33.45 عام ١٨٤٠ كتب وزير الخارجية البريطاني بالميريستون إلى سفيره في إسطنبول:
+0:02:35.25,0:02:38.30 "عليك أن تقنع السلطان وحاشيته،
+0:02:38.30,0:02:45.35 بأن الحكومة الإنجليزية ترى أن الوقت أصبح مناسبا لفتح فلسطين أمام هجرة اليهود".
+0:02:46.40,0:02:51.40 لم يزد عدد اليهود في فلسطين آنذاك عن ثلاثة آلاف.
+0:02:52.90,0:02:59.65 إستجاب اليهود للمبادرة البريطانية وكان من الأوائل البارون الثري إدموند روتشلد،
+0:02:59.65,0:03:04.55 زار فلسطين أربعة مرات للإطلاع على فرص الإستثمار فيها،
+0:03:04.60,0:03:10.85 ومول بأكثر من أربعة عشر مليون فرنك إنشاء ثلاثين مستعمرة يهودية
+0:03:10.85,0:03:13.85 من أهمها مستعمرة ريشون ليتسيون.
+0:03:19.30,0:03:22.20 التي رفعت هذا العلم الخاص بها
+0:03:22.20,0:03:28.15 عام ١٨٨٥ بينما فلسطين تحت الحكم العثماني.
+0:03:30.00,0:03:36.25 اليوم يركض رفات البارون روتشيلد بضريح قرب حيفا، يزوره الأطفال الإسرائيليون
+0:03:36.25,0:03:41.60 ليتعلموا عن ثري دعم إسرائيل قبل أكثر من مئة عام.
+0:03:52.85,0:03:59.40 عام ١٨٨٥ ظهر لأول مره مصطلح الحركة الصهيونية
+0:03:59.40,0:04:03.30 علي يد الكاتب النمساوي ناتان بيرنباوم،
+0:04:03.50,0:04:06.80 وهدف الحركة الاستيطان في فلسطين،
+0:04:07.05,0:04:12.05 والصهيونية مشتقة من كلمة صهيون إحدى تلال القدس .
+0:04:13.15,0:04:17.55 <v الدكتور هيليل كوهين مؤرخ و باحث في الجامعة العبرية> طبعا كان في طائفة يهودية في البلاد تحت الحكم العثماني،
+0:04:17.55,0:04:22.30 لكنهم لم يكونوا صهاينة، هم كانوا يهود محليين،
+0:04:22.30,0:04:28.20 لكن اليهود القادمين من أوروبا خصوصا من شرق أوروبا في أواخر القرن التاسع عشر
+0:04:28.40,0:04:31.85 كانوا يريدون بناء يهودي جديد
+0:04:33.25,0:04:42.30 عام ١٨٩٦ نشر الصحفي الصهيوني ثيودور هيرتزل كتابه الدولة اليهودية باللغة الألمانية
+0:04:44.65,0:04:50.55 لكن يهود أوروبا كانوا يجدون حلمهم في الهجرة إلى أمريكا
+0:04:50.75,0:04:59.20 هذا ما جعل الطبيب ماكس نوردو الساعد الأيمن لـ هيرتزل يرسل اثنين من كبار رجال الدين اليهود إلي فلسطين.
+0:05:01.30,0:05:05.70 أرسلا جوابا من سطر واحد جاء فيه:
+0:05:06.45,0:05:14.20 "العروس جميلة جدا، ومستوفية لجميع الشروط، ولكنها متزوجة فعلا"
+0:05:15.50,0:05:21.10 و فهم نوردو المقصود هو أن فلسطين ليست كما ذكر هيرتزل أرض بلا شعب،
+0:05:21.35,0:05:25.30 وإن فيها شعبا يسكنها منذ آلاف السنين.
+0:05:29.35,0:05:37.20 في صيف العام التالي ٢٩-٨-١٨٩٧ شارك نوردو وبيرنباوم تحت رئاسة هيرتزل في المؤتمر الصهيوني الأول في بازل السويسرية.
+0:05:37.50,0:05:44.25 تبني المؤتمر برنامج تأسيس وطن معترف به للشعب اليهودي في فلسطين.
+0:05:46.00,0:05:53.45 <v الدكتور أنيس صايغ رئيس تحرير الموسوعة الفلسطينية> هيرتزل بدأ يدعو رسميا لإقامة هذا الكيان،
+0:05:53.45,0:06:04.20 وكان على إتصال مع دول العالم الكبرى آنذاك، وفي أوروبا بشكل خاص حتى تحمي هذا الكيان.
+0:06:04.65,0:06:11.70 هيرتزل هو أب الدولة الصهيونية بدون شك، لكنه ليس مبدع الفكر الصهيوني".
+0:06:12.25,0:06:16.95 <v الصحفية روان الضامن> عادة الدول الكبرى يكون بينها تنافس ومصالح،
+0:06:16.95,0:06:23.90 كيف استطاعت الدول الأربعة الكبرى في ذلك الوقت أن تدعم جميعها فكرة الصهيونية؟
+0:06:24.15,0:06:30.35 <v الدكتور أنيس صايغ رئيس تحرير الموسوعة الفلسطينية>هو لم يعقد مؤتمر لهذه الدول معا، وبالتالي إتفقت الدول على دعمه،
+0:06:30.50,0:06:35.55 هو كان يثير التنافس بين دولة وأخرى، كان يكذب على دولة
+0:06:35.75,0:06:42.50 أني سوف أكون معكم إذا دعمتم دولة إسرائيل ضد الدول الأخرى،
+0:06:42.70,0:06:47.20 أنا أومن مصالحكم على مصالح الدول الأخرى".
+0:06:49.90,0:06:53.80 أكدت إنجلترا على مصلحتها في قيام دولة يهودية
+0:06:53.90,0:06:57.05 عندما صرح رئيس وزراءها كامبل بنرمان
+0:06:57.15,0:07:06.00 بأنه من المهم إقامة حاجز قوي وغريب على الجسر الذي يربط البحر الأبيض مع البحر الأحمر، وأضاف:
+0:07:07.30,0:07:18.40 "يتعين علينا أن نضع في هذه المنطقة وعلي مقربة من قناة السويس، قوة معادية لأهل البلد وصديقة للدول الأوروبية".
+0:07:18.40,0:07:25.85 <v الدكتور محسن صالح مدير مركز الزيتونة للأبحاث> بحيث أن يكون هذا الجسم معتمد على الاستعمار الغربي و يعتمد على الأوروبيين.
+0:07:25.85,0:07:31.25 هذا الجسم ضمان بقائه أن يكون ما حوله ضعيفا
+0:07:31.50,0:07:41.05 <v الدكتور هيليل كوهين مؤرخ و باحث في الجامعة العبرية> في أيضا فكر عند الأوروبيين أن اليهود مقربين لهم أكثر من العرب، لذلك اقامة دولة يهودية يكون أفضل لهم
+0:07:44.90,0:07:55.10 عام ١٩٠٧ توجه إلى فلسطين لأول مره عالم الكيمياء البريطاني وعضو الحركة الصهيونية العالمية حاييم وايزمان،
+0:07:55.10,0:08:01.05 حتى يؤسس شركة تطوير آراضي فلسطين في يافا بدعم من عائلة روتشيلد،
+0:08:01.20,0:08:05.65 كان الهدف شراء أراضي فلسطين بطريقة منظمة.
+0:08:09.00,0:08:12.55 بعد ثلاثة أعوام صفقة هامة تتحقق،
+0:08:12.75,0:08:19.45 إشترى الصندوق القومي اليهودي أكثر من مئتي ألف دونم في سهل مرج ابن عامر شمال فلسطين،
+0:08:19.45,0:08:27.65 كان البائع عائلة سُرسُق اللبنانية المقيمة في أوروبا، والتي إشترت الأرض مسبقا من ضباط عثمانيين،
+0:08:27.65,0:08:33.50 إشترطت الصفقة إخلاء الأراضي من آلاف الفلاحين المقيمين عليها.
+0:08:34.45,0:08:39.55 <v المحامي واكيم واكيم سكرتير جمعية الدفاع عن حقوق المهجرين> أكثر من ستين ألف فلسطيني في منطقة مرج ابن عامر تم تهجيرهم من اراضيهم.
+0:08:39.55,0:08:44.00 إذا كانت النكبة تعني ترحيل الإنسان الفلسطيني من أرضه
+0:08:44.00,0:08:46.50 والاستيلاء عليها بالقوة،
+0:08:46.60,0:08:55.85 فان حقيقة النكبة ضمن هذين المفهومين، قد بدأت من عشرات السنين قبل سنه ١٩٤٨م".
+0:08:58.90,0:09:04.65 <v الصحفي ديفيد هيرست المتخصص في قضايا الشرق الأوسط يقول> أنه نوع أسوأ من الإستعمار مقارنة مع الإستعمار الأوروبي المعهود،
+0:09:05.00,0:09:10.00 لأن الهدف لم يكن إستغلال أهل البلد بل طردهم
+0:09:13.90,0:09:21.30 <v الدكتور إيلان بابيه، مؤرخ إسرائيلي - جامعة اكسترا- بريطانيا> من اللحظة الأولى التي استهدفت الحركة الصهيونية فلسطين كمكان لدولة يهودية مستقلة،
+0:09:21.30,0:09:24.95 كان من الواضح أن هناك فلسطينيين على هذه الأرض.
+0:09:24.95,0:09:34.15 لقد اقتنع الصهاينة بفكرة أن السبيل الوحيد لجعل فلسطين دولة يهودية، هي حمل الفلسطينيين على الرحيل
+0:09:36.00,0:09:40.95 <v الدكتور عزمي بشارة مفكر عربي> اخلاء الفلاحين هو تطبيق للمبدئين: من ناحية، الإستيلاء على الأرض، ويسمى تهويد الأرض،
+0:09:41.15,0:09:46.35 وثانيا: العمل العبري، وهو الإستعاضة عن الفلاحين العرب
+0:09:46.55,0:09:53.80 بيهود، إما من شرق أوروبا، وفي حالات أخرى عندما قل العدد إستعانوا بيهود من اليمن
+0:09:54.35,0:10:00.25 و تم تأسيس الحرس اليهودي "هاشومير" لحراسة المستعمرات اليهودية.
+0:10:08.40,0:10:14.10 و تظاهر اليهود للمطالبة بالإعتراف باللغة العبرية في ظل الدولة العثمانية.
+0:10:16.00,0:10:21.15 <v الدكتور مهدي عبد الهادي رئيس الجمعية الفلسطينية الأكاديمية للشؤون الدولية> الانسان العربي والفلسطيني كان واعيا من اليوم الأول لمفهوم الصهيونية،
+0:10:21.75,0:10:28.45 هي حركة عنصرية تبحث عن رأس مال لإستعمار أرض، وتوظيف البعد الديني
+0:10:28.45,0:10:34.40 لجعلها وطن لمن تبقي من يهود العالم، في هويه وكيان ومستقبل سياسي،
+0:10:34.40,0:10:39.85 هذا الوعي كان واضح جدا عند نجيب عزوري و نجيب نصار
+0:10:39.85,0:10:43.70 أصدر الصيدلاني نجيب نصار صحيفة "الكرمل" في حيفا
+0:10:43.70,0:10:46.65 بهدف التحذير من مطامع الصهيونية،
+0:10:46.95,0:10:53.30 وكان يؤكد أن الدولة اليهودية ستكون خنجرا ساما في خاصرة العرب.
+0:10:54.20,0:11:00.05 كانت "الكرمل" صحفية صغيرة يعمل فيها نجيب نصار وزوجته ساذج بهائي،
+0:11:00.05,0:11:04.80 لم يسلم نصار من قمع الأتراك فسجن و لوحق وحورب.
+0:11:05.40,0:11:20.70 1914 الحرب العالمية الاولى
+0:11:21.15,0:11:30.80 <v الدكتور يوجين روغان رئيس مركز الشرق الأوسط- بريطانيا> خلال الحرب كان البريطانيون يفكرون في موقع فلسطين،
+0:11:30.80,0:11:36.00 وانه على مقربه من قناة السويس ودور بريطانيا في مصر آنذاك،
+0:11:36.20,0:11:40.55 كان يدل على الدور الخاص لبريطانيا في فلسطين،
+0:11:40.70,0:11:50.70 ورأوا في اليهود والحركة الصهيونية شريك في امر استراتيجي استعماري
+0:11:55.20,0:12:03.50 عام ١٩١٥ قدمت لمجلس الوزراء البريطاني مذكرة سرية بعنوان (مستقبل فلسطين) ،
+0:12:03.80,0:12:10.15 كتبها أول صهيوني يهودي يصل لمنصب وزير بريطاني وهو هربرت صموئيل،
+0:12:11.05,0:12:12.30 جاء في الوثيقة:
+0:12:13.88,0:12:18.27 الوقت الحاضر ليس مناسبا لإنشاء دولة يهودية مستقلة،
+0:12:18.30,0:12:23.35 لذا يجب أن توضع فلسطين بعد الحرب تحت السيطرة البريطانية،
+0:12:23.35,0:12:30.52 لتعطي تسهيلات للمنظمات اليهودية لشراء الأراضي، وإقامة المستعمرات، وتنظيم الهجرة،
+0:12:30.70,0:12:36.92 وعلينا أن نزرع بين المحمديين ثلاثة إلى أربعة ملايين يهودي أوروبي
+0:12:38.50,0:12:45.45 تم الأخذ بتوصية صموئيل في الإتفاقية السرية التي جمعت بريطانيا وفرنسا لتقسيم سوريا الكبرى،
+0:12:45.82,0:12:48.32 عرفت الإتفاقية بإسم مهندسيها
+0:12:48.50,0:12:52.65 البريطاني- ماركس سايكس، والفرنسي- جورج بيكو،
+0:12:53.05,0:12:58.45 وضعت إتفاقية سايكس بيكو فلسطين تحت سيادة مشتركة للحلفاء
+0:12:58.52,0:13:01.35 لإعدادها للدولة اليهودية.
+0:13:01.35,0:13:08.32 <v المواطن عمر الناطور مواليد يازور - قضاء يافا، يعيش في مخيم بلاطة- مدينه نابلس> نحن من فلسطين، وفلسطين جزء من بلاد الشام. لسنا نحن من قسمها،
+0:13:09.02,0:13:10.47 بل سايكس وبيكو،
+0:13:12.46,0:13:19.02 وبيكو، لقد سئمنا الانجليز والحديث عنهم، ولكن يجب أن نعرف،
+0:13:19.12,0:13:23.36 أن الذي قسم أرضنا، خطط حينها ليأتي باليهود إلى فلسطين".
+0:13:24.58,0:13:28.14 كان سايكس صديقا مقربا من حاييم وايزمان
+0:13:28.20,0:13:32.74 وقد تبادلا عدة مراسلات، قبل توقيع إتفاقية سايكس بيكو،
+0:13:33.06,0:13:36.30 أوضحت هذه المراسلات دعم سايكس للحركة الصهيونية.
+0:13:39.74,0:13:44.86 بعد عام واحد، وافق مجلس الوزراء البريطاني برئاسة ديفيد لويد جورج
+0:13:45.02,0:13:50.12 على إصدار وعد بريطاني لإنشاء وطن قومي لليهود في فلسطين،
+0:13:50.50,0:13:52.64 كتب الوعد على صيغة رسالة،
+0:13:52.78,0:13:55.02 وزير الخارجية آرثر بلفور
+0:13:55.22,0:13:56.72 إلى اللورد الصهيوني
+0:13:56.82,0:13:58.80 ليونيل ولتر روتشيلد.
+0:14:02.80,0:14:05.60 <v الدكتور يوجين روغان رئيس مركز الشرق الأوسط - بريطانيا> "بلفور كان يمثل الحكومة البريطانية،
+0:14:05.76,0:14:10.04 عندما كتب رسالته إلى اللورد روتشلد،
+0:14:10.36,0:14:12.84 كان يكتب بإسم
+0:14:13.04,0:14:14.72 الحكومة البريطانية،
+0:14:14.74,0:14:19.06 روتشلد كان يلعب دور شخص اللوبي
+0:14:19.46,0:14:22.78 حتى يشجع الحكومة البريطانية
+0:14:22.80,0:14:26.74 لأن تتخذ سياسة معينة بالنسبة
+0:14:26.74,0:14:30.98 لدور اليهود في فلسطين،
+0:14:31.28,0:14:34.52 فكان يمثل الحركة الصهيونية،
+0:14:34.88,0:14:37.28 وكان يقف من خلفهم جميعا حاييم وايزمان،
+0:14:37.36,0:14:43.96 الذي كان المسؤول عن المنظمة الدولية الصهيونية،
+0:14:44.50,0:14:47.60 والذي شارك في صياغة الوعد".
+0:14:48.56,0:14:54.20 <v الدكتور آفي شليم مؤرخ إسرائيلي - جامعة أكسفورد – بريطانيا> يقول: "لم يكن لبريطانيا حق أخلاقي أو سياسي او قانوني
+0:14:54.16,0:15:00.10 يخول لها أن تعد بإعطاء أرض هي ملك للعرب، لأناس أخرين،
+0:15:00.42,0:15:04.00 كان وعد بلفور غير أخلاقي و غير قانوني".
+0:15:08.58,0:15:10.38 بعد شهر من وعد بلفور
+0:15:10.38,0:15:12.90 أحتفل في لندن بالإنجاز الصهيوني
+0:15:13.04,0:15:16.26 و تحدث في الإحتفال، اللورد روتشيلد
+0:15:16.16,0:15:20.52 وهيربرت صموئيل وماركس سايكس وحاييم وايزمن.
+0:15:23.00,0:15:29.12 بعدها بأيام أحتل الجيش البريطاني بقيادة الجنرال أدموند
+0:15:29.12,0:15:31.12 القدس
+0:15:41.96,0:15:44.70 دخل مع جيش ألينبي فيلق يهودي،
+0:15:44.84,0:15:48.88 تم تدريبه بتوجيه من وزير المستعمرات البريطاني
+0:15:48.88,0:15:50.88 وينستون تشرتشيل
+0:15:54.58,0:16:00.42 كان أحد أعضاء هذا الفيلق وجه نعرفه جيدا بعد ذلك،
+0:16:00.70,0:16:02.78 ديفيد بن غوريون
+0:16:07.92,0:16:11.84 كان مع الفيلق أيضا زئيف جابوتنسكي
+0:16:12.42,0:16:15.44 وإدوين صموئيل ابن هيربرت صموئيل،
+0:16:16.08,0:16:17.56 نحميا رابين
+0:16:17.50,0:16:19.56 والد إسحاق رابين.
+0:16:27.56,0:16:33.34 في غضون شهر إستقبل ألينبي في القدس صديقه الحميم حاييم وايزمن.
+0:16:38.32,0:16:43.56 كان عدد اليهود في فلسطين خمسين ألفا، مقابل نصف مليون عربي،
+0:16:43.56,0:16:46.56 أي شكل اليهود أقل من عشر السكان.
+0:16:48.56,0:16:53.74 مع إنتهاء الحرب العالمية الأولى، وأثناء الإعداد لمؤتمر السلام في باريس،
+0:16:53.74,0:16:55.92 أرسل الرئيس الأمريكي ويلسون
+0:16:55.90,0:16:59.32 لجنة برئاسة الأكاديمي الدكتور هنري كنج
+0:16:59.36,0:17:01.32 والسياسي تشاس كرين
+0:17:01.32,0:17:03.66 إلى الشرق الأوسط، لدراسة الوضع
+0:17:04.08,0:17:06.94 وقدما تقريرا جاء في توصياته: الدقيقة
+0:17:07.56,0:17:11.14 إذا أردنا تطبيق مبادئ العدالة الأمريكية
+0:17:11.14,0:17:13.56 فإن أماني الشعب الفلسطيني
+0:17:13.56,0:17:17.18 هي التي يجب أن تقرر مستقبل فلسطين،
+0:17:17.14,0:17:22.32 إن تسعة أعشار السكان في فلسطين يعارضون برنامج الصهيوني،
+0:17:22.32,0:17:25.12 وهذا الشعور عام في جميع سوريا،
+0:17:25.12,0:17:28.24 لقد أكد كل مسؤول بريطاني قابلناه
+0:17:28.24,0:17:33.64 أن برنامج الصهيونية لا يمكن تنفيذه إلا بقوة السلاح،
+0:17:33.76,0:17:41.50 وأن هناك حاجة إلى ما لا يقل عن خمسين ألف جندي للبدء بتنفيذ هذا البرنامج،
+0:17:41.50,0:17:46.16 و هذا بحد ذاته دليل على ظلم برنامج الصهيونية،
+0:17:46.16,0:17:53.62 و بناء على كل ما سبق، نوصي بالتخلي عن مشروع جعل فلسطين كومنوليث يهودي".
+0:17:57.34,0:18:01.66 لم يجد تقرير كينج كرين آذانا صاغية.
+0:18:11.48,0:18:16.70 شارك في مؤتمر السلام عن بريطانيا ديفيد ليودجورج و آرثر بلفور
+0:18:17.10,0:18:20.58 وترأس الوفد الصهيوني حاييم وايزمن،
+0:18:20.60,0:18:24.74 ليعرض خريطة توضح مساحة الوطن القومي لليهود
+0:18:25.04,0:18:32.24 كانت تشمل فلسطين وغور شرق الأردن وجنوب لبنان وصولا إلى صيدا وصور
+0:18:32.24,0:18:34.36 وكذلك القنيطرة السورية،
+0:18:34.72,0:18:39.22 بحدود تسير بمحاذاة خط سكة الحديد الحجازية
+0:18:39.98,0:18:43.10 في المؤتمر أحاط ألينبي وديفيد ليودجورج
+0:18:43.10,0:18:45.32 الأمير فيصل ابن الحسين
+0:18:46.42,0:18:52.34 ووقع وايزمان مع فيصل اتفاقية عرفت بإسم فيصل وايزمن،
+0:18:58.32,0:19:02.12 لكن مهندسها الحقيقي كان الكولونيل البريطاني
+0:19:02.12,0:19:06.16 توماس إدوارد لورنس، المعروف بلقب لورنس العرب،
+0:19:07.64,0:19:13.82 قع فيصل لكنه تحفظ بخطه أن الإتفاقية لن تتم إلا إذا
+0:19:13.82,0:19:16.40 نالت العرب استقلاله.
+0:19:22.62,0:19:26.44 <v الدكتور هيلين كوهين مؤرخ و باحث في الجامعة العبرية> الحركة الصهيونية منذ سنه ١٩١٩ تقريبا، فهمت
+0:19:26.82,0:19:31.88 أن التركيز على السياسة الخارجية لا يكفي.
+0:19:31.90,0:19:41.00 نعم لنا الكثير من العلاقات في لندن، لنا مكتب في نيويورك أو واشنطن، ولنا انصار في برلين ..... الخ.
+0:19:41.30,0:19:50.24 لمن يوجد هنا اناس يجب أخذهم بعين الإعتبار،
+0:19:50.68,0:19:54.56 في سنه ١٩١٩ أسسوا مركز استخباري
+0:19:54.72,0:19:58.86 للحركة الصهيونية،
+0:19:59.00,0:20:06.66 وكانت العلاقات جيدة في الكثير من المناطق بين اليهود والعرب،
+0:20:06.80,0:20:20.40 وكان هناك يهود ممن هاجر ذويهم عام ١٨٨٤ وهم ولدوا في فلسطين، وكانوا يتحدثون العربية ويركبون الخيل
+0:20:20.34,0:20:22.74 ويذهبون عند العرب، ولهم أصدقاء من العرب.
+0:20:22.74,0:20:29.30 أصبحوا يجمعون معلومات ذات طابع سياسي،
+0:20:29.30,0:20:31.30 ما هو الرأي العام،
+0:20:31.30,0:20:35.04 هل سيوافقون على المشروع الصهيوني أو لن يوافقوا،
+0:20:35.24,0:20:42.52 أين توجد آراضي غير مأهولة، وهل يوجد اشخاص ممن يريدون يبع أراضيهم لليهود،
+0:20:42.78,0:20:58.08 وايضاً إذا ما كانت هناك خطط لمهاجمة اليهود من منطقة معينة او مجموعة معينه".
+0:21:01.76,0:21:07.00 عام ١٩٢٠ عين أول حاكم بريطاني لفلسطين،
+0:21:07.36,0:21:12.16 ووقع اختيار الحكومة البريطانية لمنصب المندوب السامي البريطان
+0:21:12.34,0:21:15.24 علي اليهودي الصهيوني هيربرت صموئيل.
+0:21:15.64,0:21:19.70 جاء صموئيل ليطبق ما اقترحه قبل ذلك بخمسة أعوام،
+0:21:19.70,0:21:23.72 وهو تهيئة فلسطين لتكون دولة يهودية.
+0:21:24.90,0:21:31.70 كان صموئيل صديقا لألينبي و تدل مراسلاتهما على تفاهم كامل على الدور البريطاني.
+0:21:32.38,0:21:39.80 كانت المادة الثانية من بنود صُك الإنتداب البريطاني الذي صادقت عليه عصبة الأمم تنص على:
+0:21:42.00,0:21:47.78 تكليف بريطاني لوضع البلاد في حاله سياسية وإدارية وإقتصادية
+0:21:48.00,0:21:51.90 تسمح بإنشاء الوطن القومي اليهودي".
+0:21:52.02,0:21:58.08 و منذ اليوم الأول اعتبر صموئيل العبرية لغة رسمية إلي جانب العربية والإنجليزية
+0:21:58.60,0:22:03.10 وأضيف إلى كلمة فلسطين بالعبرية الحرفان آلف (أ) وياء (ي)
+0:22:03.10,0:22:05.84 كرمز إلى كلمتي إيريتس يسرائيل.
+0:22:05.84,0:22:07.92 إي أرض إسرائيل.
+0:22:12.02,0:22:17.98 <v الدكتور سلمان أبو سته مؤلف أطلس فلسطين ٤٨> هيربرت صموئيل تحت إشراف الإنتداب البريطاني، هو الذي خلق إسرائيل
+0:22:18.42,0:22:25.94 قانونيا. اولا: وضع القوانين، حوالي مئة قانون لكي يمكن تسريب الأراضي العربية إلى يد اليهود.
+0:22:26.20,0:22:33.40 ثانيا: سمح لليهود بأن يكون لهم نظام تعليم منفصل عن نظام حكومة فلسطين،
+0:22:33.58,0:22:39.06 وبنوا أيضا نواة وزارة الطاقة، لأنهم أنشأوا محطات طاقة لهم
+0:22:39.22,0:22:42.46 وايضا وزارة الأشغال ووزارة المياه
+0:22:42.72,0:22:50.24 وأهم ما عمله الإنجليز أنهم سمحو لهم بأن يكون لهم جيش منفصل،
+0:22:50.22,0:22:53.08 أنا أتكلم عن ١٩٢٠"
+0:22:53.36,0:22:58.38 <v يوسف حجازي صحفي و باحث من غزة> وهيربرت صموئيل هو نفسه يقول، أنا سوف أعمل على تطبيق روح
+0:22:58.38,0:23:03.40 تصريح بلفور، بن غوريون يقول عنه أنه اليهودي الصالح،
+0:23:04.62,0:23:07.46 ووايزمن يقول نحن الذين عيناه".
+0:23:08.04,0:23:13.40 <v الصحفي ديفيد هيرست متخصص في قضايا الشرق الأوسط> لقد وفرت لهم بريطانيا الوسيلة للهجرة،
+0:23:13.40,0:23:17.72 وما كانوا ليستطيعوا الهجرة لولا الوجود البريطاني،
+0:23:18.28,0:23:25.14 فالمعركة الحاسمة في المراحل الأولى كانت إدخال اليهود إلى فلسطين والاستحواذ على الأرض،
+0:23:25.36,0:23:36.28 لم يكن لليهود أن يفعلوا ذلك دون رعاية من الحكومة البريطانية"
+0:23:36.54,0:23:42.12 <v الدكتور مهدي عبد الهادي رئيس الجمعية الفلسطينية الأكاديمة للشؤون الدولية> الإنتداب البريطاني أخذ أهم شيئ، من المشاع والمتروك والمملوك للحاكم
+0:23:42.48,0:23:45.36 وملكها للحركة الصهيونية في المستوطنات فورا".
+0:23:45.60,0:23:51.48 <v الصحفي مسلم بسيسو المراسل وكالة لأسوشيتد برس في فلسطين عام ٤٨> "السلطة البريطانية كانت تعطي منح أراضي لليهود حتى يبنوا عليها الكيبوتسات وغيرها،
+0:23:52.12,0:23:56.66 ونحن كنا نرى هذه الأشياء ولكن لم نعيها
+0:23:56.74,0:23:59.94 كان جيلي ذلك الوقت".
+0:24:01.68,0:24:07.50 <v الدكتور أنيس صايغ رئيس تحرير الموسوعة الفلسطينية> وحموا الوكالة اليهودية التي كانت شبه حكومة في ظل الإنتداب،
+0:24:07.50,0:24:14.04 وأعطوها كل المساعدات العسكرية والمادية، وساعدوها على إخفاء نفسها،
+0:24:14.58,0:24:16.86 فهي مهارة صهيونية،
+0:24:17.06,0:24:18.86 ومؤامرة بريطانية،
+0:24:19.04,0:24:21.24 وإلي حد ما، وآسف أن أقول
+0:24:21.60,0:24:24.42 غباء أو بساطة عربية فلسطينية".
+0:24:43.28,0:24:46.06 و مع التحيّز البريطاني لليهود
+0:24:46.06,0:24:50.02 و إزدياد عدد الفلاحين المطرودين من الأراضي الزراعية،
+0:24:50.20,0:24:54.18 بدأت مجموعات من الثوار في الظهور في المناطق الريفية،
+0:24:54.48,0:24:59.38 ونظمت مظاهرات حاشدة ضد هجرة الصهاينة عام ١٩٢١.
+0:25:04.12,0:25:10.64 كانت القيادة السياسية الفلسطينية قيادة تقليدية قائمة علي توارث مناصب الزعماء،
+0:25:11.06,0:25:16.26 فمفتي القدس آمين الحسيني ورث هذا المنصب وعمره خمسة وعشرون عاما
+0:25:16.40,0:25:21.58 بعد وفاة أخيه كامل، الذي خلف والده طاهر الحسيني مفتي القدس،
+0:25:22.22,0:25:29.88 وتوجهت هذه القيادة منذ أوائل العشرينات في وفود متتالية إلى لندن لبحث القضية الفلسطينية
+0:25:32.64,0:25:40.08 <v يوسف حجازي صحفي و باحث من غزه> الحركة الوطنية الفلسطينية كانت تعمل على أن تجمع الصيف والشتاء تحت سقف واحد، الحفاظ على صداقة بريطانيا من جانب،
+0:25:40.64,0:25:43.92 ومعادة الحركة الصهيونية من جانب آخر، وهذا لا يمكن أن يستقيم".
+0:25:43.92,0:25:50.66 <v الدكتور عزمي بشارة - مفكر عربي> نخبة دقيقة جدا، رقيقة جدا من حيث العدد والتعليم، يعني تقابل نخبة إمبراطوريات،
+0:25:50.98,0:25:56.76 اليهود في بدايات القرن العشرين كانوا نخب إمبراطوريات فعلا".
+0:25:56.76,0:25:58.64 <v الدكتور هيليل كوهين مؤرخ و باحث في الجامعة العبري> تقريبا في كل منطقة،
+0:25:58.70,0:26:04.44 وفي كل لقاء للمؤسسات الفلسطينية التي أسست في تلك الفترة،
+0:26:06.02,0:26:15.60 على سبيل المثال، اللجنة المسيحية السلمية، والمجلس الإسلامي الأعلى، والهيئة الإسلامية وكل المؤسسات،
+0:26:15.96,0:26:18.66 بعد عدة ساعات من الجلسة،
+0:26:18.48,0:26:25.38 كان البريطانيين يقدمون تقارير لليهود بكل تفاصيل الاجتماع وما دار فيه، وكانوا يقدمون التوصيات بأن هذا عدو لكم،
+0:26:25.38,0:26:30.34 وهذا يمكن العمل معه أو ان تشترونه بالمال ... إلخ ".
+0:26:36.60,0:26:40.98 على الأرض، تواصل العمل لتحقيق هدف الإنتداب البريطاني
+0:26:41.16,0:26:45.08 وجاء في تقرير حكومة بريطانيا إلى مجلس عصبة الأمم
+0:26:45.28,0:26:51.28 عن إنجازات الإنتداب البريطاني خلال عام ١٩٢٥ أنه قد تم:
+0:26:51.84,0:26:59.74 أولا: تسهيل هجرة (33801) ثلاثة وثلاثون ألفا وثمانمائة وواحد يهودي، و تم منحهم الجنسية الفلسطينية،
+0:26:59.92,0:27:02.72 أي ثلاثة أضعاف عدد العام السابق؛
+0:27:03.24,0:27:07.04 ثانيا: إنشاء ثلاثة عشرة مستوطنة جديد؛
+0:27:07.74,0:27:13.38 ثالثا: تنظيم الهستدروت كنقابة للعمال اليهود بإدارة ديفيد بن غوريون؛
+0:27:13.78,0:27:19.00 رابعا: منح البلدة اليهودية تل أبيب استقلالا محليا؛
+0:27:19.00,0:27:26.70 خامسا: الافتتاح الرسمي للجامعة العبرية بحضور الجنرال أدموند الينبي، والحاكم البريطاني هيربرت صموئيل
+0:27:26.78,0:27:31.84 وضيف الشرف آرثر بلفور، ورئيس المنظمة الصهيونية العالمية
+0:27:31.84,0:27:33.20 حاييم وايزمن.
+0:27:40.86,0:27:45.76 و حل بلفور ضيفا على وايزمان وزار عددا من المستعمرات اليهودية.
+0:27:52.80,0:27:58.12 إلتقى في القدس صموئيل و بلفور و الينبي لتحديد الخطوة القادمة.
+0:27:59.66,0:28:03.42 اضرب الفلسطينيون، ورفعوا الأعلام السود،
+0:28:03.42,0:28:06.22 وصفوا زيارة بلفور بالمشؤومة.
+0:28:13.36,0:28:19.54 "في الصورة المشهورة تجد سيدة من الخليل تضع ثلاثة حجابات على راسها،
+0:28:19.56,0:28:23.50 وسيدة في القدس تضع حجاب واحد ومعظم وجها ظاهر من تحت الحجاب،
+0:28:23.50,0:28:25.84 الوطنية المسيحية من دون حجاب، و
+0:28:26.24,0:28:30.32 مشين مع بعضهن وذهبن إلى بيت المندوب السامي و احتجّن واعترضن".
+0:28:31.28,0:28:34.80 في المقابل، هنأ وايزمان صموئيل بما تحقق
+0:28:35.12,0:28:39.20 من انجاز، وكرّمت المنظمة الصهيونية صموئيل عام ١٩٢٥
+0:28:39.20,0:28:43.86 لإنهائه المرحلة الأولى من تأسيس الوطن القومي اليهودي.
+0:28:45.24,0:28:49.52 كانت الحركة الصهيونية تعرض أفلاما دعائية في كل العالم،
+0:28:49.52,0:28:53.40 منها هذا الفيلم الموجه للناطقين بالفرنسية،
+0:28:53.40,0:28:55.58 يظهر إسم أرض إسرائيل
+0:28:55.58,0:28:57.46 على خارطة فلسطين،
+0:28:57.46,0:29:01.92 ويوضح مواقع الأراضي التي تدعي الصهيونية أنها حصلت عليها
+0:29:01.92,0:29:04.04 حتي عام ١٩٢٥
+0:29:04.26,0:29:07.86 وكانوا يدّعون انهم حصلوا على ١٧٧ ألف دونم.
+0:29:08.34,0:29:12.36 كما ويظهر مخطط الصهيونية للحصول على الأراضي
+0:29:12.42,0:29:15.74 في الأعوام الخمسة والعشرون القادمة حيث ان المهمة للخمس والعشرون سنة القادمة هي الحصول على مليون دونم لصندوق الأراضي اليهودي.
+0:29:21.74,0:29:30.94 في صيف عام ١٩٢٩ نظمت الوكالة اليهودية تجمعا صهيونيا للصلاة عند حائط البراق، للمطالبة بإعادة بناء الهيكل
+0:29:31.10,0:29:34.68 فقامت ثورة شعبية سميت بـ "ثورة البراق"
+0:29:34.76,0:29:40.46 أطلقها فلاح فلسطيني من قرية المزار قضاء جنين وهو فرحان السعدي.
+0:29:41.58,0:29:44.96 أصدر المندوب السامي البريطاني جون روبرت تشانسلور
+0:29:45.14,0:29:47.54 بيانا شديد اللهجة جاء فيه
+0:29:47.54,0:29:51.50 أنه سيوقع القصاص الصارم بمن شارك في الثورة،
+0:29:52.48,0:29:55.52 أعتقل السعدي مع العشرات، وكان منهم
+0:29:55.52,0:30:00.70 من صفد خريج الجامعة الأمريكية في بيروت فؤاد حسن حجازي،
+0:30:00.70,0:30:03.32 ومن الخليل عطا أحمد الزير،
+0:30:03.32,0:30:07.22 ومحمد خليل جمجوم، الذي لم نعثر على صوره له.
+0:30:11.30,0:30:18.28 هنا في سجن القلعة في عكا سجن حجازي و الزير و جمجوم و حكم عليهم بالإعدام
+0:30:18.52,0:30:28.92 طالب الحكام العرب بتخفيف الحكم عنهم، لكن السلطات البريطانية في السابع عشر من يونيو لعام ثلاثين نفذت حكم الإعدام.
+0:30:36.04,0:30:41.22 ما زالت قبور الشهداء الثلاثة في عكا، ونقرأ في وصيتهم:
+0:30:42.30,0:30:53.00 ولنا في آخر حياتنا رجاء إلى ملوك وأمراء العرب والمسلمين في أنحاء المعمورة، لا تثقون بالأجانب،
+0:30:53.18,0:30:56.86 وباسم العرب نحيا وباسم العرب نموت".
+0:31:20.44,0:31:25.92 خلال عشر سنوات من الإنتداب، تضاعف عدد اليهود أكثر من ثلاث مرات
+0:31:26.00,0:31:29.38 ليصل إلى مائة وخمسة وسبعون ألفا
+0:31:30.02,0:31:33.12 افتخر الصهاينة في العالم بإنجازهم.
+0:31:38.58,0:31:42.86 <v ستيفن وايز – صهيوني امريكي في خطاب له في نيويورك سنه ١٩٣١> "جئت اليوم لأسألكم أيها الزملاء الصهاينة، عن الموقف الذي سنتخذه من بين المواقف المتاحة أمامنا
+0:31:43.38,0:31:46.00 أود أن أقول لإنجلترا، رغم أنني يهودي أمريكي،
+0:31:46.46,0:31:52.62 رغم أنني يهودي أمريكي، لكنني معجب منذ زمن ببريطانيا العظمى،
+0:31:52.90,0:31:55.50 سأقول لإنجلترا لو استطعت
+0:32:07.72,0:32:22.68 ، إن وجود فلسطين عربية، هو تهديد لبريطانيا العظمى وخطر على العالم، ولكن وجود فلسطين يهودية، هو مكسب لبريطانيا العظمى وبركة للعالم".
+0:32:40.90,0:32:44.06 كان ديفيد لويد جورج مع تصفيق وايزمن له
+0:32:44.06,0:32:47.50 يعمل لنقل ملكية فلسطين إلى الصهيوني.
+0:32:50.98,0:32:54.54 <v ديفيد لويد جورج رئيس وزراء بريطانيا سابقا في حفل عشاء لصهيونيه في لندن سنه ١٩٣١> "كما ذكركم رئيسكم
+0:32:56.16,0:32:58.94 فقد مرت ست عشرة سنة تقريبا،
+0:32:59.68,0:33:03.94 منذ أن جندني في الحركة الصهيونية،
+0:33:07.64,0:33:31.76 تحولت فلسطين من مستنقعات قاحلة موبوءة بالملاريا إلى مستعمرات مزدهرة، زرعت التربة بعد أن كانت المياه تضيع سدى منذ بدء الخليقة".
+0:33:36.06,0:33:43.06 دون زرع و دون حياة، صحراء فارغة، تلك هي فلسطين
+0:33:43.06,0:33:49.14 هكذا كانت تُصور فلسطين في أوروبا
+0:33:49.44,0:33:54.42 وهكذا كانت فلسطين في الثلاثينيات.
+0:34:06.20,0:34:10.60 <v حسني محمد صمادعة مواليد صبارين قضاء حيفا ويعيش في مخيم الجلزون للاجئين في رام الله> "اقسم بالله كان الزرع من طوله، لا تستطيع المشي خلاله، كان اطول مني،
+0:34:08.78,0:34:23.26 الخضرة تملأ السهول، عندما تخرج في الصباح وتذهب الى البستان، تكون روائح الخضرة تفوح في كل مكان، ونوار الخيار والفقوس والبندورة يفوح عطرا،
+0:34:23.48,0:34:31.62 حيفا لا غنى عنها، اتذكرها جيدا، حيفا كانت ام الدنيا".
+0:35:11.36,0:35:18.30 "بالنسبة لي، طبريا هي أجمل مدينة وأجمل مكان في العالم.
+0:35:18.40,0:35:24.14 المسيح لم يقم في مدينة طبريا،
+0:35:24.10,0:35:26.94 ، وإنما أقام حول المدينة،
+0:35:27.20,0:35:33.84 فيها عمل معظم معجزاته، على مياهها مشى".
+0:35:35.04,0:35:43.74 كان ديفيد لويد جورج وبلفور وتشرتشيل حريصين على تسمية الفلسطينيين بلقب "المحمدين".
+0:35:44.12,0:35:55.44 <v الدكتور إيلان بابيه مؤرخ إسرائيلي جامعة اكسترا بريطانيا> لم يعتبروا الفلسطينيين منتمين لمجموعة قومية عربية أو لمجموعات وطنية محلية،
+0:35:55.44,0:35:59.44 ولم يروا فيهم سوى مجموعة دينية،
+0:36:00.14,0:36:01.90 لقد تجاهلوا مثلا،
+0:36:02.24,0:36:08.06 أن المسيحيين والمسلمين في فلسطين كونوا هوية جديدة
+0:36:08.06,0:36:14.20 ليست هوية دينية، وإنما قومية".
+0:36:14.80,0:36:26.12 <v عزمي بشارة مفكر عربي> "قارة المسيحين الشرقيين غير موجودة، هنالك مأزق لدى الإستعمار عندما يستخدم الثيولوجيا المسيحية في رؤية المنطقة والشرق الأوسط،
+0:36:26.14,0:36:28.74 ما ادى إلى تبني الصهيونية فيما بعد
+0:36:29.06,0:36:41.58 مأزق التعامل مع المسيحين الشرقيين، هذا ليس موجودا في عالمه، لذلك يحاول الاستعمار أن ينكر وجودها أصلا ، لأنه مجرد وجودها يربك كل السبل".
+0:36:48.38,0:36:57.28 عام ١٩٣٣ تصاعدت المظاهرات والاحتجاجات الشعبية في فلسطين، وشاركت النساء مع الرجال.
+0:36:57.28,0:37:02.00 قمع البريطانيون المظاهرات وأعتقل الآلاف.
+0:37:13.50,0:37:19.90 سقط كثير من الجرحى و الشهداء، حتي موسى كاظم الحسيني، رئيس بلدية القدس سابقا،
+0:37:20.08,0:37:27.52 ضربه الجنود البريطانيون وهو في الثمانين من العمر في مظاهرة بالقدس وتوفي متأثرا بجراحه.
+0:37:44.40,0:37:47.10 كتب الشرطي الفلسطيني محسن توفيق،
+0:37:47.10,0:37:50.70 يحتج علي رئيسه الضابط البريطاني جورج فارادي،
+0:37:50.70,0:37:56.40 الذي أطلق خمسا وعشرون رصاصة بإتجاه الفلسطينيين المتظاهرين في يافا.
+0:37:56.70,0:37:59.50 وجهت عدة احتجاجات ضد فارادي.
+0:38:00.00,0:38:04.46 وكان رد الحكومة البريطانية بعد أربع سنوات من هذه الأحداث
+0:38:04.84,0:38:10.64 نح فارادي وسام الشرطة الملكي مع إشادة بدوره في فلسطين.
+0:38:12.02,0:38:20.02 <v الدكتور مصطفى كبها باحث في التاريخ الفلسطيني> عدم رغبة بريطانيا بمنح المطالَب الوطنية للفلسطينيين، وعدم نظرتها للشعب الفلسطيني كمجموعة
+0:38:20.26,0:38:26.44 قومية وطنية ذات حقوق، ومعاملتهم على أساس أنهم طوائف،
+0:38:26.98,0:38:33.14 في حين معاملة الوكالة اليهودية على أساس أنها ممثلة لمجموعة قومية،
+0:38:33.40,0:38:39.52 كل هذا أدى إلى تفاقم الوضع والصدام مع بريطانيا".
+0:38:41.60,0:38:45.36 لا يتوفر في الأرشيف غير صور ثابتة لبعض المظاهرات الفلسطينية،
+0:38:45.36,0:38:47.36 وتنعدم الصور المتحركة،
+0:38:47.52,0:38:54.70 ينما صورت كاميرات السينما كافة الأنشطة الصهيونية والبريطانية.
+0:38:58.64,0:39:02.62 تل أبيب ترفع أواسط الثلاثينيات العلم الصهيوني.
+0:39:03.08,0:39:08.04 وتصدير القطن والألماس من المصانع اليهودية
+0:39:09.18,0:39:13.18 ، والهجرة اليهودية وبناء المستوطنات.
+0:39:18.40,0:39:25.86 <v الصحفية روان الضامن> كان من أهم تحديات هذا العمل أن نجد الصور الأرشيفية التي حاولت الدعاية الصهيونية محوها.
+0:39:26.10,0:39:31.56 استغرق الأمر أشهرا من البحث في الأرشيف البريطاني، هنا في لندن،
+0:39:31.80,0:39:36.76 لنجد بالصوت والصورة بعضا من الحقيقة المغيبة.
+0:40:39.14,0:40:44.82 <v الدكتور إيلان بابيه مؤرخ إسرائيلي جامعة اكسترا بريطانيا> معظم الفلسطينيين مثقفين وقادة وصحفيين،
+0:40:44.84,0:40:46.82 كانوا ما يزالون غير واعين
+0:40:46.82,0:40:51.40 لمدى تصميم الحركة الصهيونية على إخراجهم من فلسطين".
+0:40:51.34,0:40:56.24 "تكشف الأرقام عن تزايد أعداد المهاجرين اليهود إلى فلسطين
+0:40:56.28,0:41:02.24 ، من أربعة آلاف عام ١٩٣١، إلى تسعة آلاف وخمسمائة في العام التالي،
+0:41:02.32,0:41:05.76 ثم إلى ثلاثين ألفا عام ١٩٣٣
+0:41:05.74,0:41:08.78 وأربعة وثلاثين عام ١٩٣٤،
+0:41:08.92,0:41:18.46 حتى وصل ذروته إلى اثنين وستين ألفا عام ١٩٣٥. في نفس العام ألقي الشاعر الفلسطيني عبد الرحيم محمود
+0:41:18.58,0:41:24.40 قصيدة أمام الأمير سعود بن عبد العزيز عندما جاء لزيارة القدس، قال فيها:
+0:41:24.82,0:41:26.72 المسجد الأقصى،
+0:41:26.88,0:41:28.72 أجئت تزوره،
+0:41:29.10,0:41:32.62 أم جئت من قبل الضياع، تودعه".
+0:41:33.42,0:41:34.84 <v الدكتور مهدي عبد الهادي رئيس الجمعية الفلسطينية الأكاديمية للشؤون الدولية> "هذه الأراضي تصادر،
+0:41:35.28,0:41:36.84 الوعد يتم تنفيذه،
+0:41:37.12,0:41:45.24 وغياب إي تفاعل معها من الحكم البريطاني، كان هناك القمع والبطش وقوانين رهيبة في الحكم البريطاني، وحتى يومنا هذا، إسرائيل تطبقها
+0:41:45.84,0:41:48.38 بالاعتقالات والإبعاد والبطش،
+0:41:48.38,0:41:50.68 فتحرك سنه ١٩٣٥ عز الدين القسام".
+0:41:50.82,0:41:53.68 <v ماجد الزير مدير عام مركز العودة الفلسطيني> لشهيد عز الدين القسام يمثل حالة في الثلاثينيا
+0:41:53.96,0:41:59.42 ، حالة في بعدها العربي للقضية، بأنه جاء من سوريا،
+0:41:59.40,0:42:03.10 و في البعد الديني للقضية، وارتباطه بالمسجد،
+0:42:03.10,0:42:07.92 بتنظيمه وعناده في المقاومة وفي إصراره على مقاومة المحتل".
+0:42:07.92,0:42:17.12 <v يوسف حجازي صحفي وباحث من غزة> عندما أرسل القسام للقيادة الفلسطينية في القدس، ليستشيرهم في الثورة، قالوا أن الوقت غير مناسب لإعلان ثورة،
+0:42:17.22,0:42:27.68 والشعب غير ناضج لإعلان الثورة، وقالوا أيضا، نحن ما زلنا نراهن على إمكانية الحصول على حقوقنا من خلال المفاوضات السياسية".
+0:42:28.82,0:42:36.94 وحال إعلان الشيخ عز الدين القسام الثورة المسلحة، حاصره الجيش البريطاني في كمين في أحراج يعبد قرب جنين،
+0:42:36.94,0:42:44.96 وقصفوا مجموعته بالطائرات والمدافع، وأستشهد مع رفيقيه يوسف الزيباوي وسيد حنفي عطية.
+0:42:45.38,0:42:50.54 <v الدكتور مصطفى كبها باحث في التاريخ الفلسطيني> "حركة القسام لم تحظى بالاهتمام الكبير من جانب المؤرخين،
+0:42:50.64,0:42:55.36 لا نعرف عنها الكثير بسبب الغموض الذي اكتنفها، وبسبب
+0:42:55.46,0:42:59.34 الحرص الشديد للشيخ عز الدين القسام على السرية في العمل،
+0:42:59.34,0:43:07.26 وعدم إطلاع الكثيرين، إلا الصفوة الصغيرة من طلابه".
+0:43:07.40,0:43:13.02 <v جودت الحاج محمد – ابن الشهيد عبد الرحيم الحاج محمد> "امتدت روح عز الدين القسام في الوسط الفلسطيني،
+0:43:13.20,0:43:16.42 تأثر بها كثير من الفلسطينيين،
+0:43:16.92,0:43:27.68 فبدأت مشاعر الانقلاب أو التمرد على الإستعمار البريطاني تظهر في صفوف الشعب الفلسطيني".
+0:43:28.92,0:43:34.34 وتعرضت القيادة السياسية الفلسطينية إلى ضغوط لوقف الحوار مع الإنجليز
+0:43:35.18,0:43:41.56 حتى أن الشاعر الفلسطيني إبراهيم طوقان كتب متوجها للقيادة عام ١٩٣٥:
+0:43:42.06,0:43:44.86 "أنتم المخلصون للوطنية،
+0:43:44.86,0:43:47.78 أنتم الحاملون عبئ القضية،
+0:43:47.78,0:43:50.96 في يدينا بقية من بلاد،
+0:43:50.96,0:43:54.34 فاستريحوا كي لا تطير البقية".
+0:43:55.82,0:43:57.68 <v يوسف حجازي صحفي و باحث من غزة> "فبدأ الإضراب في يافا
+0:43:58.14,0:44:01.50 بحرية يافا ١٩ نيسان ١٩٣٦.
+0:44:01.78,0:44:09.90 القيادة والأحزاب الفلسطينية، نحن قلنا ان القيادة، الحركة الوطنية الفلسطينية، كانت منقسمة إلى أحزاب تقوم على اساس التناحر العائلي.
+0:44:10.02,0:44:21.72 ، الأحزاب الفلسطينية الستة شكلت قيادة - اللجنة العربية العليا ٢٥- ٤ - ١٩٣٦ بعد ستة أيام من الثورة حتى تقود الثورة، وقادت الثورة فعلا.
+0:44:21.74,0:44:28.24 <v المتحدث باسم اللجنة العربية العليا 1936> إن الشكوى الرئيسية لدى العرب، هي ضد سياسة الحكومة البريطانية في فلسطين، فهي سياسة إذا ما استمرت
+0:44:28.24,0:44:37.10 فستؤدي حتما إلى إحلال اليهود محل العرب،
+0:44:37.14,0:44:46.90 وخلافا لكل المبادئ، فقد فرضت الحكومة البريطانية تصريح بلفور، الذي يمقته جميع العرب في الشرق الأدنى،
+0:44:47.06,0:44:58.94 وبتفضيلها تأسيس وطن قومي لليهود، تناست بقصد، حماية الحقوق المدنية للسكان غير اليهود.
+0:44:58.96,0:45:03.90 لقد قرر العرب القيام بإضراب عام
+0:45:03.94,0:45:09.30 و شامل حتي تتوقف هجرة اليهود بشكل كامل،
+0:45:09.36,0:45:15.08 وحتي تجري الحكومة البريطانية تغييرا جوهريا في سياستها الحالية".
+0:45:15.60,0:45:20.24 <v للصحفي مسلم بسيسو مراسل وكالة الأسوشيتد برس في فلسطين ٤٨> "لأنه حدث الإضراب، الذي هو من أعظم الإضرابات في التاريخ
+0:45:20.46,0:45:24.62 في سنه ١٩٣٦ كل فلسطين أضربت
+0:45:25.98,0:45:32.44 ، وهذا كان نتيجة النضالات التي حدثت في مواجهة الإنتداب
+0:45:33.14,0:45:44.28 وحكم الإنتداب، و تحيز الإنتداب مع اليهود، تسهيل الأمور لهم في كل شيئ".
+0:45:45.68,0:45:48.48 كان إضرابا شاملا، هز الإنتداب البريطاني،
+0:45:48.44,0:45:51.12 فاتخذت السلطات البريطانية إجراءات عقابية صارمة
+0:45:51.12,0:45:54.26 اعتقال كل من يشتبه بعلاقته بالثوار
+0:45:54.40,0:46:03.14 وتفجير منازلهم. هدم أكثر من مئتي منزل في يافا وحدها كتنكيل جماعي، وتلتها مدن وقرى أخرى.
+0:46:03.46,0:46:10.82 وأصر البريطانيون على أن هدم المنازل عمل مبرر للقضاء على الثورة.
+0:46:14.96,0:46:18.08 <v الصحفية روان الضامن> ماذا تتذكر عن الإنجليز في البلد ماذا كانوا يعملون؟
+0:46:21.44,0:46:32.04 <v سامي كمال عبد الرزاق مواليد ترشيحة قضاء عكا> الإنجليز، الإنجليز اقاموا مركزهم على الطريق،
+0:46:32.36,0:46:38.04 وكان خالي مع عماله في طريقهم الى العمل،
+0:46:38.62,0:46:48.16 فقالوا له أدخل أنت وشغيلتك لتكنس المركز، فرفض، فضربوه، ضربه
+0:46:49.40,0:46:53.70 ضربه ضابط اسمه ريمون،
+0:46:53.84,0:47:07.72 واستمروا في ضربه حتى مات، آخذناه الى مستشفى حمزة في حيفا، لتجرى له عملية جراحية، فوجدنا منديل الشحم في صدره قد تمزق من ضدة الضرب فمات".
+0:47:08.46,0:47:10.58 <v حسني محمد صمادعة ,مواليد صبارين قضاء حيفا, يعيش في مخيم الجلزون قرب مدينة رام الله> "كانوا يضربوننا"
+0:47:10.58,0:47:11.74 ماذا يعملون؟
+0:47:11.74,0:47:21.32 يضربون الرجال ويأخذوهم الى السجن في طولكرم، والى بلدة جرجور بالقرب من بن يامين،
+0:47:21.84,0:47:30.94 ويجبرونهم على العمل في المحاجر، ويأتون بهم على قرية نور شمس للعمل في المحاجر، اي أشغال شاقة".
+0:47:31.10,0:47:33.70 <v الدكتور مهدي عبد الهادي رئيس الجمعية الفلسطينية الأكاديمية للشؤون الدولية> لو تقرأين مذكرات بن غوريون،
+0:47:33.70,0:47:39.24 كان يتحدى، يتحدى المفاوض العربي في قمة الثورة، خلال قمة ١٩٣٦
+0:47:39.46,0:47:41.42 في جلساته مع موسى العلمي،
+0:47:41.42,0:47:44.16 التي رتب لها واك هوب المندوب السامي،
+0:47:44.18,0:47:53.04 قال له: "نحن لنا حضور فعلي، لا يستطيع الغرب، في بريطانيا أن يقول لنا لا، من أنتم في بريطانيا؟".
+0:47:53.32,0:48:00.18 أثناء الإضراب بحث ديفيد بن غوريون، رئيس الوكالة اليهودية مع المندوب السامي البريطاني آرثر واك هوب،
+0:48:00.32,0:48:06.84 إمكانية توطين الفلاحين الفلسطينيين، الذين يتم طردهم من أراضي المستعمرات اليهودية
+0:48:06.84,0:48:08.40 في شرق الأردن،
+0:48:08.40,0:48:09.80 فأجابه:
+0:48:09.84,0:48:11.80 إنها فكرة جيدة.
+0:48:12.00,0:48:16.00 نهاية الجزء الاول.
