@@ -3,7 +3,6 @@
 	"version": "1.0.0",
 	"description": "AlJazeera documentary movie with multi language subtitles, organized in ULA way",
 	"main": "index.js",
-	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"deploy": "gh-pages -d ../web-build"
