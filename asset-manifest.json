@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/nakba-palestinian-exodus-documentary-1/static/js/app.94dedd0f.chunk.js",
-    "app.js.map": "/nakba-palestinian-exodus-documentary-1/static/js/app.94dedd0f.chunk.js.map",
+    "app.js": "/nakba-palestinian-exodus-documentary-1/static/js/app.cdf3b366.chunk.js",
+    "app.js.map": "/nakba-palestinian-exodus-documentary-1/static/js/app.cdf3b366.chunk.js.map",
     "runtime~app.js": "/nakba-palestinian-exodus-documentary-1/static/js/runtime~app.f8414a50.js",
     "runtime~app.js.map": "/nakba-palestinian-exodus-documentary-1/static/js/runtime~app.f8414a50.js.map",
     "static/js/2.bac6a855.chunk.js": "/nakba-palestinian-exodus-documentary-1/static/js/2.bac6a855.chunk.js",
@@ -39,6 +39,6 @@
   "entrypoints": [
     "static/js/runtime~app.f8414a50.js",
     "static/js/2.bac6a855.chunk.js",
-    "static/js/app.94dedd0f.chunk.js"
+    "static/js/app.cdf3b366.chunk.js"
   ]
 }
