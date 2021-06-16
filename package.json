@@ -1,8 +1,9 @@
 {
-	"name": "ula-content-example",
+	"name": "nakba-1-palestinian-exodus-documentary",
 	"version": "1.0.0",
-	"description": "",
+	"description": "AlJazeera documentary movie with multi language subtitles, organized in ULA way",
 	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
